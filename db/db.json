@@ -5,19 +5,9 @@
       "text": "Test text"
     },
     {
-      "title": "new note",
-      "text": "note",
+      "title": "New Note",
+      "text": "This is a tester note",
       "id": "1"
-    },
-    {
-      "title": "Hello",
-      "text": "Hi",
-      "id": "2"
-    },
-    {
-      "title": "Hello",
-      "text": "Hi there",
-      "id": "3"
     }
   ]
 }

@@ -35,8 +35,17 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Comments
 
+1. Created routes that allows user to create a new note
+2. Save button appears when user enters title and body text
+3. Saved notes appear in the left column and can be viewed in the right column when clicked
+4. Application has been deployed to Heroku
+5. Delete note function has not been completed
+
 ## URL of Deployed Application
+
+[Deployed Page URL](https://notetakerapp-nicolev.herokuapp.com/)
 
 ## Credits
 
 1. Starter code from [GitHub](https://github.com/coding-boot-camp/miniature-eureka)
+2. Article explaining how to deploy to [Heroku](https://dashboard.heroku.com/apps)

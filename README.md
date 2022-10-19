@@ -14,6 +14,9 @@ Your challenge is to create an application called Note Taker that can be used to
 
 ## Deployed Page
 
+<img src = './images/deployed-page1.png'>
+<img src = './images/deployed-page2.png'>
+
 ## Acceptance Criteria
 
 GIVEN a note-taking application
